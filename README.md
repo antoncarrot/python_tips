@@ -37,7 +37,7 @@ def function(text, num):
     return ""
 ```
 
-```
+```python
 def function(text, num):
     # type: (str, int) -> str
 ```
