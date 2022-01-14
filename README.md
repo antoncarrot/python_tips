@@ -37,6 +37,11 @@ def function(text, num):
     return ""
 ```
 
+```
+def function(text, num):
+    # type: (str, int) -> str
+```
+
 ### Reraise exception
 
 ```python
